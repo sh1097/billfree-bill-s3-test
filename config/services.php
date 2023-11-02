@@ -30,5 +30,9 @@ return [
         'secret' => env('AWS_SECRET_ACCESS_KEY'),
         'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
     ],
-
+    'aws' => [
+        'key' =>"AKIA2YINAA7PVV3OL7GJ",
+        'secret' => "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",
+        'region' => "ap-south-1",
+    ],
 ];
